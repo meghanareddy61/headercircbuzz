@@ -1,0 +1,25 @@
+header{
+    background-color:green;
+    height:70px;
+    display:flex;
+    align-items:center;
+    justify-content: space-around;
+} 
+ul{
+    justify-content: space-between;
+    display:inline;
+    text-decoration:none;
+    display:flex;
+    column-gap:12px;
+    list-style:none;
+    
+}
+
+li{
+    
+    color:white;
+    cursor:pointer;
+}
+button{
+    border-radius:15px;
+}
